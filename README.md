@@ -1,2 +1,2 @@
 # tensorflow_test
-recode some code about tensorflow
+recode some codes about tensorflow
